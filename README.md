@@ -1,5 +1,5 @@
 # data_drp_process
-Data retention/deletion/archive process
+Data retention/archive/deletion process
 
 The data retention process is a series of tables and stored procedures that specify
 which data tables are to be processed for retention, archival, or deletion.
